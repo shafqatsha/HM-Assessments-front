@@ -1,3 +1,3 @@
-#npm Install 
+npm Install 
 
-#npm run dev
+npm run dev
