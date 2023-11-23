@@ -1,0 +1,9 @@
+@import './base.css';
+
+.Form-Container {
+    border: 1px solid #607D8B;
+    /* background: #CFD8DC; */
+    max-height: calc(100vh - 100px);
+    overflow-y: auto;
+
+}
