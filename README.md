@@ -1,3 +1,5 @@
-npm Install 
+# After clone please checkout to master 
 
-npm run dev
+# npm Install 
+
+# npm run dev
